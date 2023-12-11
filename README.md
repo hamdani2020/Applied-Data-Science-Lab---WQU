@@ -2,6 +2,13 @@
 
 ## Content
 1. [HOUSING IN MEXICO](#HOUSING-IN-MEXICO)
+2. [APARTMENT SALES IN BUENOS AIRES](#APARTMENT-SALES-IN-BUENOS-AIRES)
+3. [AIR QUALITY IN NAIROBI](#AIR-QUALITY-IN-NAIROBI)
+4. [EARTHQUAKE DAMAGE IN NEPAL](#EARTHQUAKE-DAMAGE-NEPAL)
+5. [BANKRUPTCY IN POLAND](#BANKRUPTCY-IN-POLAND)
+6. [CUSTOMER SEGMENTATION IN THE US](#CUSTOMER-SEGMENTATION-IN-THE-US)
+7. [A/B TESTING AT WORLDQUANT UNIVERSITY](#A/B-TESTING-AT-WORLDQUANT-UNIVERSITY)
+8. [VOLATILITY FORECASTING IN INDIA](#VOLATILITY-FORECASTING-IN-INDIA)
 
 ![image](/wqu.png)
 
@@ -16,7 +23,7 @@ I used a dataset of 21,000 properties to determine if real estate prices are inf
 - I built data visualizations and
 - Examine the relationship between two variables using correlation.
 
-## APARTMENT SALES IN BUENOS AITES
+## APARTMENT SALES IN BUENOS AIRES
 I build a linear regression model to predict apartment prices in Argentina.
 - I created a data pipeline to impute missing values and encode categorical features.
 - I improve model preformance by reducing overfitting.

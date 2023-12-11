@@ -1,2 +1,2 @@
 # Applied Data Science Lab - WQU
-![image](/wqu.png)
+<center>![image](/wqu.png)</center>

@@ -1,7 +1,7 @@
 # Applied Data Science Lab - WQU
 
 ## Content
-- [HOUSING IN MEXICO](#HOUSING IN MEXICO)
+1. [HOUSING IN MEXICO](#HOUSING-IN-MEXICO)
 
 ![image](/wqu.png)
 

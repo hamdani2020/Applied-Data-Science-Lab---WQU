@@ -5,3 +5,12 @@ I have completed eight end-to-end, applied data science projects. In each projec
 
 Below is my roadmap:
 ![image](/wqu1.png)
+
+## HOUSING IN MEXICO
+I used a dataset of 21,000 properties to determine if real estate prices are influence more by property size or location.
+- I imported and cleaned data form a CSV file
+- I built data visualizations and
+- Examine the relationship between two variables using correlation.
+
+## APARTMENT SALES IN BUENOS AITES
+
